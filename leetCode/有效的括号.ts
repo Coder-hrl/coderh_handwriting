@@ -1,4 +1,4 @@
-import { Stack } from "./栈/Stack"
+import { Stack } from "./常见数据结构/Stack"
 
 const str1: string = "[](){}"
 const str2: string = "[)"
@@ -42,4 +42,5 @@ console.log(judge(str3))
 console.log(judge(str4))
 
 
+export { }
 
